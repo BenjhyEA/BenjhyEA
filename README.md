@@ -15,6 +15,6 @@ I’m Benjhy, a Systems Engineering student interested in software development. 
 
 <p align="left">
 📧 Email: <a href="mailto:benjhy1504@gmail.com">benjhy1504@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/benjhy-ea">linkedin.com/in/benjhy-ea</a><br>
-💻 GitHub: <a href="https://github.com/BenjhyEA">github.com/BenjhyEA</a>
+<!-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/benjhy-ea">linkedin.com/in/benjhy-ea</a><br>
+💻 GitHub: <a href="https://github.com/BenjhyEA">github.com/BenjhyEA</a> -->
 </p>
